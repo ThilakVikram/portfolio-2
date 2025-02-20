@@ -1,0 +1,10 @@
+@keyframes scrollTop {
+    0%{
+        
+    }
+}
+
+.hideonScrollUp{
+    animation-name: hideonScrollUp;
+    animation-timeline: scroll();
+}
