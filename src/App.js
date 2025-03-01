@@ -1,9 +1,8 @@
 import React from "react";
-import HomePage from "./page/home-page";
 
 function App() {
   return (
-    <HomePage/>
+    <div className="w-full h-full bg-violet-600"></div>
   );
 }
 

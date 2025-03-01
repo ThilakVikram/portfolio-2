@@ -1,0 +1,6 @@
+overview:
+should container header which should show the below requirements:
+    header should display name
+    options to contact me like send email etc..,
+    
+body content should be in column type which would easily display all the details of the cv information
